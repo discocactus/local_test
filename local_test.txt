@@ -1,1 +1,2 @@
-local_test
+1 local_test
+2 add
